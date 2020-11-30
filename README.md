@@ -45,4 +45,4 @@ Text file with a list of proxies in case you recieve 429 (Too many request) code
 177.87.223.194:49233
 ...
 ```
-![alt text](https://linkpicture.com/q/Capture_242.png)
+![alt text](https://linkpicture.com/q/Capture_244.png)
