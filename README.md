@@ -9,4 +9,4 @@
 ### How to use
 ```python3 dorks.py```
 
-![alt text](https://ibb.co/7G8S0bR)
+![alt text](https://linkpicture.com/q/Capture_241.png)
