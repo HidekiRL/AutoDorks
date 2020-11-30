@@ -46,3 +46,6 @@ Text file with a list of proxies in case you recieve 429 (Too many request) code
 ...
 ```
 ![alt text](https://linkpicture.com/q/Capture_244.png)
+
+### Result
+You will get a final report <report.txt> and a folder with all the files sorted by extension if you enable the download option
