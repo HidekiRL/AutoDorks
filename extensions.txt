@@ -1,0 +1,9 @@
+txt
+pdf
+doc
+ppt
+exe
+db
+json
+pptx
+key
