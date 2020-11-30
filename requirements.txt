@@ -1,0 +1,7 @@
+progressbar==2.5
+clint==0.5.1
+bs4==0.0.1
+beautifulsoup4==4.9.1
+pyfiglet==0.8.post1
+more-itertools==4.2.0
+
